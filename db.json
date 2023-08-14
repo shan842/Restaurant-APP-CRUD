@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "rounak",
+      "email": "rounak@gmail.com",
+      "mobile": "8800474954",
+      "address": "xyz",
+      "service": "coffee"
+    },
+    {
+      "id": 4,
+      "name": "zdsdf",
+      "email": "asd@gmail.com",
+      "mobile": "65665646",
+      "address": "zxczx",
+      "service": "asda"
+    },
+    {
+      "id": 5,
+      "name": "xszc",
+      "email": "Zzdc@gmail.com",
+      "mobile": "513135454",
+      "address": "sdf",
+      "service": "were"
+    },
+    {
+      "id": 6,
+      "name": "rounak",
+      "email": "rounak@gmail.com",
+      "mobile": "88004749",
+      "address": "xyz",
+      "service": "coffee"
+    },
+    {
+      "id": 8,
+      "name": "asd",
+      "email": "ae@gmail.com",
+      "mobile": "4545454545",
+      "address": "sdf",
+      "service": "sdfs"
+    }
+  ],
+  "signup": [
+    {
+      "name": "zdsdf",
+      "mobile": "8554698",
+      "email": "as@gmail.com",
+      "password": "2346",
+      "id": 1
+    },
+    {
+      "name": "roun",
+      "mobile": "4236658",
+      "email": "asd@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "Rounak Kumar",
+      "mobile": "9988554422",
+      "email": "Rounak@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "rounakk",
+      "mobile": "8754654123",
+      "email": "rounakk412@gmail.com",
+      "password": "12345",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
